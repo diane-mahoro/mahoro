@@ -38,3 +38,14 @@ nav ul li a:hover{
     letter-spacing: 0.1em;
     text-transform: uppercase;
 }
+.email{
+
+}
+.email> ul> li{
+    display: inline-block;
+    position: relative;
+    top: 200px;
+    left: 150px;
+    font-size: 25px;
+    margin: 5px;
+}
